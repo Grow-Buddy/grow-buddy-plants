@@ -1,0 +1,2 @@
+mongodump --archive --uri="mongodb://root:password@nas.local:27017/grow-buddy-plants?authSource=admin" | \
+mongorestore --drop --archive --uri="mongodb://root:password@localhost:27017/grow-buddy-plants?authSource=admin"
