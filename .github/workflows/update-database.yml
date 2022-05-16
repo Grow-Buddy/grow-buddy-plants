@@ -1,0 +1,28 @@
+name: "Update database"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/cache@v3
+      with:
+        path: ~/.m2
+        key: ${{ runner.os }}-m2-${{ hashFiles('pom.xml') }}
+    - uses: actions/cache@v3
+      with:
+        path: cache
+        key: crawling-cache
+    - uses: Project-Env/project-env-github-action@v1.2.0
+      with:
+        cli-version: '3.7.1'
+    - run: mvn -B verify exec:exec -Dexec.executable="java" -Dexec.args="-classpath %classpath app.growbuddy.plants.PlantsDatabaseCreator database.json cache"
+    - uses: peter-evans/create-pull-request@v4
+      with:
+        title: 'update plants database'
+        body: 'Updated plants database with latest info'
+        commit-message: 'update plants database'
+        branch: 'feature/update-plants-database'
