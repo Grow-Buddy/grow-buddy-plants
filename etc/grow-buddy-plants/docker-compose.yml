@@ -1,0 +1,17 @@
+version: '3.1'
+services:
+  database:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: password
+    ports:
+      - 27017:27017
+  server:
+    image: ghcr.io/grow-buddy/grow-buddy-plants:dev
+    restart: always
+    environment:
+      SPRING_DATA_MONGODB_URI: mongodb://root:password@database:27017/grow-buddy-plants?authSource=admin
+    ports:
+      - 9090:8080

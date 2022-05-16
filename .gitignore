@@ -1,0 +1,7 @@
+.flattened-pom.xml
+cache
+*.iml
+.idea
+.project-env
+.tools
+target
