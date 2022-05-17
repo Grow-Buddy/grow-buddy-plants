@@ -14,7 +14,7 @@
         <maven.compiler.release>17</maven.compiler.release>
 
         <immutables.version>2.8.2</immutables.version>
-        <jsoup.version>1.13.1</jsoup.version>
+        <jsoup.version>1.15.1</jsoup.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
         <commons-collections4.version>4.4</commons-collections4.version>
 
