@@ -1,8 +1,8 @@
-package app.growbuddy.plants.model;
+package ch.projectplants.database.model;
 
-import app.growbuddy.plants.extractor.MeinSchoenerGartenPlantInfoExtractor;
-import app.growbuddy.plants.extractor.PflanzenFuerUnsereGaertenPlantInfoExtractor;
-import app.growbuddy.plants.extractor.PlantInfoExtractor;
+import ch.projectplants.database.extractor.MeinSchoenerGartenPlantInfoExtractor;
+import ch.projectplants.database.extractor.PflanzenFuerUnsereGaertenPlantInfoExtractor;
+import ch.projectplants.database.extractor.PlantInfoExtractor;
 
 import java.util.regex.Pattern;
 

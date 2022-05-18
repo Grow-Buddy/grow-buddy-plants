@@ -1,4 +1,4 @@
-package app.growbuddy.plants.model;
+package ch.projectplants.database.model;
 
 public enum WaterDemand {
     LOW,

@@ -1,4 +1,4 @@
-package app.growbuddy.plants.extractor;
+package ch.projectplants.database.extractor;
 
 import org.immutables.value.Value;
 

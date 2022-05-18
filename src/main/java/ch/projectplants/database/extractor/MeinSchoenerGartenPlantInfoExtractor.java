@@ -1,7 +1,7 @@
-package app.growbuddy.plants.extractor;
+package ch.projectplants.database.extractor;
 
-import app.growbuddy.plants.model.PreferredLocation;
-import app.growbuddy.plants.model.WaterDemand;
+import ch.projectplants.database.model.PreferredLocation;
+import ch.projectplants.database.model.WaterDemand;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.tuple.Pair;
 import org.jsoup.nodes.Document;

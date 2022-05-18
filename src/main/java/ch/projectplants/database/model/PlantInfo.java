@@ -1,4 +1,4 @@
-package app.growbuddy.plants.model;
+package ch.projectplants.database.model;
 
 import org.immutables.gson.Gson;
 import org.immutables.value.Value;

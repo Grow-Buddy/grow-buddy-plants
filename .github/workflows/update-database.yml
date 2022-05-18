@@ -21,7 +21,7 @@ jobs:
     - uses: Project-Env/project-env-github-action@v1.2.0
       with:
         cli-version: '3.7.1'
-    - run: mvn -B verify exec:exec -Dexec.executable="java" -Dexec.args="-classpath %classpath app.growbuddy.plants.PlantsDatabaseCreator database.json cache"
+    - run: mvn -B verify exec:exec -Dexec.executable="java" -Dexec.args="-classpath %classpath ch.projectplants.database.PlantsDatabaseCreator database.json cache"
     - uses: peter-evans/create-pull-request@v4
       with:
         title: 'update plants database'

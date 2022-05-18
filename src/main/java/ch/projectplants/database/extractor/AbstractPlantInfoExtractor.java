@@ -1,6 +1,7 @@
-package app.growbuddy.plants.extractor;
+package ch.projectplants.database.extractor;
 
-import app.growbuddy.plants.model.*;
+import ch.projectplants.database.model.*;
+import ch.projectplants.database.model.*;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.tuple.Pair;
 import org.jsoup.Jsoup;

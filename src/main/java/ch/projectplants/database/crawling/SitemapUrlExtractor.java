@@ -1,9 +1,10 @@
-package app.growbuddy.plants.crawling;
+package ch.projectplants.database.crawling;
 
-import app.growbuddy.plants.crawling.siteindex.Sitemapindex;
-import app.growbuddy.plants.crawling.siteindex.TSitemap;
-import app.growbuddy.plants.crawling.sitemap.TUrl;
-import app.growbuddy.plants.crawling.sitemap.Urlset;
+import ch.projectplants.database.crawling.siteindex.Sitemapindex;
+import ch.projectplants.database.crawling.siteindex.TSitemap;
+import ch.projectplants.database.crawling.sitemap.TUrl;
+import ch.projectplants.database.crawling.sitemap.Urlset;
+import ch.projectplants.database.crawling.sitemap.ObjectFactory;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Unmarshaller;
@@ -72,8 +73,8 @@ public class SitemapUrlExtractor {
     private Unmarshaller createSitemapUnmarshaller() {
         try {
             return JAXBContext.newInstance(
-                    app.growbuddy.plants.crawling.sitemap.ObjectFactory.class,
-                    app.growbuddy.plants.crawling.siteindex.ObjectFactory.class
+                    ObjectFactory.class,
+                    ch.projectplants.database.crawling.siteindex.ObjectFactory.class
             ).createUnmarshaller();
         } catch (Exception e) {
             throw new RuntimeException(e);

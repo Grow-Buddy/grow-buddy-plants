@@ -1,10 +1,10 @@
-package app.growbuddy.plants;
+package ch.projectplants.database;
 
-import app.growbuddy.plants.crawling.SitemapUrlExtractor;
-import app.growbuddy.plants.model.GsonAdaptersPlantInfo;
-import app.growbuddy.plants.model.ImmutableRawPlantInfo;
-import app.growbuddy.plants.model.PlantInfo;
-import app.growbuddy.plants.model.PlantInfoSource;
+import ch.projectplants.database.crawling.SitemapUrlExtractor;
+import ch.projectplants.database.model.GsonAdaptersPlantInfo;
+import ch.projectplants.database.model.ImmutableRawPlantInfo;
+import ch.projectplants.database.model.PlantInfo;
+import ch.projectplants.database.model.PlantInfoSource;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
