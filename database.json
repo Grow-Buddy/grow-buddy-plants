@@ -33781,5 +33781,14 @@
     "waterDemand": "LOW_TO_MEDIUM",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Österreichischer Ehrenpreis",
+    "botanicalName": "Veronica austriaca subsp. teucrium",
+    "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
+    "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/1916/veronica-austriaca-subsp-teucrium",
+    "waterDemand": "MEDIUM",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
   }
 ]
