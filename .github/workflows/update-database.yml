@@ -18,9 +18,7 @@ jobs:
       with:
         path: cache
         key: crawling-cache
-    - uses: Project-Env/project-env-github-action@v1.2.0
-      with:
-        cli-version: '3.7.1'
+    - uses: Project-Env/project-env-github-action@v1.3.0
     - run: mvn -B verify exec:exec -Dexec.executable="java" -Dexec.args="-classpath %classpath ch.projectplants.database.PlantsDatabaseCreator database.json cache"
     - uses: peter-evans/create-pull-request@v4
       with:
