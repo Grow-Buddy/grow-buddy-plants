@@ -11,12 +11,12 @@ public enum PlantInfoSource {
     MEIN_SCHOENER_GARTEN("Mein schöner Garten",
             "https://www.mein-schoener-garten.de",
             "/pflanzen/.*",
-            new MeinSchoenerGartenPlantInfoExtractor()),
+            new MeinSchoenerGartenPlantInfoExtractor());
 
-    PFLANZEN_FUER_UNSERE_GAERTEN("Pflanzen für unsere Gärten",
+    /*PFLANZEN_FUER_UNSERE_GAERTEN("Pflanzen für unsere Gärten",
             "https://www.pflanzen-fuer-unsere-gaerten.ch",
             "/de-ch/artikel/.*",
-            new PflanzenFuerUnsereGaertenPlantInfoExtractor());
+            new PflanzenFuerUnsereGaertenPlantInfoExtractor());*/
 
     private final String niceName;
     private final String baseUrl;
