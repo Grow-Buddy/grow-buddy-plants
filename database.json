@@ -169,6 +169,14 @@
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
   },
   {
+    "name": "Ackerwinde",
+    "botanicalName": "Convolvulus arvensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/winde/ackerwinde",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Adlerfarn",
     "botanicalName": "Pteridium aquilinum",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -1160,6 +1168,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/artischocken"
   },
   {
+    "name": "Artischocken",
+    "botanicalName": "Cynara cardunculus subsp. scolymus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/artischocken"
+  },
+  {
     "name": "Arve, Zirbelkiefer",
     "botanicalName": "Pinus cembra",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -1250,6 +1264,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/zeder/atlaszeder",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Aubergine, Eierbaum",
+    "botanicalName": "Solanum melongena",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/aubergine-eierbaum"
   },
   {
     "name": "Aubergine, Eierbaum",
@@ -3128,6 +3148,13 @@
     "isWinterProof": true
   },
   {
+    "name": "Blauer Strandhafer",
+    "botanicalName": "Ammophila breviligulata",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/strandhafer/blauer-strandhafer",
+    "isWinterProof": true
+  },
+  {
     "name": "Blauer Zierlauch, Blauer Lauch",
     "botanicalName": "Allium caeruleum",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -3506,6 +3533,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hartriegel/blumenhartriegel-venus",
     "preferredLocation": "HALF_SHADOWS",
     "isWinterProof": true
+  },
+  {
+    "name": "Blumenkohl",
+    "botanicalName": "Brassica oleracea var. botrytis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/blumenkohl"
   },
   {
     "name": "Blumenkohl",
@@ -4040,6 +4073,12 @@
   },
   {
     "name": "Brokkoli",
+    "botanicalName": "Brassica oleracea var. italica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/brokkoli"
+  },
+  {
+    "name": "Brokkoli",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/brokkoli"
   },
@@ -4201,6 +4240,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/buschbohnen"
   },
   {
+    "name": "Buschbohnen",
+    "botanicalName": "Phaseolus vulgaris var. nanus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/buschbohnen"
+  },
+  {
     "name": "Buschgeissblatt",
     "botanicalName": "Diervilla splendens (x)",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -4266,6 +4311,12 @@
     "waterDemand": "MEDIUM",
     "preferredLocation": "SHADOW_TO_HALF_SHADOWS",
     "isWinterProof": true
+  },
+  {
+    "name": "Butterkohl",
+    "botanicalName": "Brassica oleracea convar. capitata var. sabauda subvar. fimbriata",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/butterkohl"
   },
   {
     "name": "Butterkohl",
@@ -4472,12 +4523,24 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/chicoree"
   },
   {
+    "name": "Chicorée",
+    "botanicalName": "Cichorium intybus convar. foliosum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/chicoree"
+  },
+  {
     "name": "Chilenische Nelkenwurz",
     "botanicalName": "Geum Chiloense-Hybriden",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nelkenwurz/chilenische-nelkenwurz",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Chinakohl",
+    "botanicalName": "Brassica rapa subsp. pekinensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/chinakohl"
   },
   {
     "name": "Chinakohl",
@@ -4588,6 +4651,14 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hanfpalme/chinesische-hanfpalme",
     "preferredLocation": "SUNNY"
+  },
+  {
+    "name": "Chinesische Klettertrompete",
+    "botanicalName": "Campsis grandiflora",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/trompetenblume-klettertrompete/chinesische-klettertrompete",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
   },
   {
     "name": "Chinesische Pfingstrosen, Edel-Pfingstrosen",
@@ -4813,6 +4884,12 @@
   },
   {
     "name": "Cime di Rapa, Stängelkohl",
+    "botanicalName": "Brassica rapa subsp. sylvestris var. esculenta ‘Cime di Rapa’",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/cime-di-rapa-staengelkohl"
+  },
+  {
+    "name": "Cime di Rapa, Stängelkohl",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/cime-di-rapa-staengelkohl"
   },
@@ -4844,6 +4921,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/balsamapfel/clusia-balsamapfel",
     "preferredLocation": "SUNNY",
     "isWinterProof": false
+  },
+  {
+    "name": "Colakraut",
+    "botanicalName": "Artemisia abrotanum var. maritima",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/beifuss-wermut/colakraut",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
   },
   {
     "name": "Coloradotanne",
@@ -6204,6 +6289,12 @@
   },
   {
     "name": "Eichblattsalat",
+    "botanicalName": "Lactus sativa var. crispa",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/eichblattsalat"
+  },
+  {
+    "name": "Eichblattsalat",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/eichblattsalat"
   },
@@ -6287,6 +6378,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/eisbergsalat"
   },
   {
+    "name": "Eisbergsalat",
+    "botanicalName": "Lactuca sativa var. capitata nidus tenerimma",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/eisbergsalat"
+  },
+  {
     "name": "Eisenholzbaum",
     "botanicalName": "Parrotia persica",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -6328,6 +6425,12 @@
     "name": "Elefantenknoblauch",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/elefantenknoblauch"
+  },
+  {
+    "name": "Elefantenknoblauch",
+    "botanicalName": "Allium ampeloprasum subsp. ampeloprasum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/elefantenknoblauch"
   },
   {
     "name": "Elefantenohr",
@@ -6449,6 +6552,12 @@
     "waterDemand": "LOW_TO_MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Endivie, Friséesalat",
+    "botanicalName": "Cichorium endivia",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/endivie-friseesalat"
   },
   {
     "name": "Endivie, Friséesalat",
@@ -7124,6 +7233,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/etagenzwiebel-luftzwiebel"
   },
   {
+    "name": "Etagenzwiebel, Luftzwiebel",
+    "botanicalName": "Allium cepa var. viviparum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/etagenzwiebel-luftzwiebel"
+  },
+  {
     "name": "Eukalyptus",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/eukalyptus"
@@ -7432,6 +7547,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/feigenbaum/ficus-carica",
     "preferredLocation": "SUNNY",
     "isWinterProof": false
+  },
+  {
+    "name": "Feigenblattkürbis",
+    "botanicalName": "Cucurbita ficifolia",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kuerbis/feigenblattkuerbis"
   },
   {
     "name": "Feigenkaktus, Kaktusfeige",
@@ -8199,6 +8320,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Flaschenkürbis",
+    "botanicalName": "Lagenaria siceraria",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/flaschenkuerbis-kalebasse/flaschenkuerbis"
+  },
+  {
     "name": "Flaschenpalme",
     "botanicalName": "Hyophorbe lagenicaulis",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -8910,6 +9037,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/spiere-spierstrauch/fruehlingsspiere",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Frühlingszwiebel, Lauchzwiebel",
+    "botanicalName": "Allium fistulosum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/fruehlingszwiebel-lauchzwiebel"
   },
   {
     "name": "Frühlingszwiebel, Lauchzwiebel",
@@ -9998,6 +10131,13 @@
     "isWinterProof": true
   },
   {
+    "name": "Gemeiner Hohlzahn",
+    "botanicalName": "Galeopsis tetrahit",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hohlzahn/gemeiner-hohlzahn",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
     "name": "Gemeiner Lein",
     "botanicalName": "Linum usitatissimum",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -10268,6 +10408,14 @@
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/391/carpinus-betulus",
     "waterDemand": "LOW_TO_MEDIUM",
     "preferredLocation": "NO_MATTER",
+    "isWinterProof": true
+  },
+  {
+    "name": "Gewöhnliche Kratzdistel",
+    "botanicalName": "Cirsium vulgare",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kratzdistel/gewoehnliche-kratzdistel",
+    "preferredLocation": "SUNNY",
     "isWinterProof": true
   },
   {
@@ -11767,6 +11915,12 @@
   },
   {
     "name": "Grünkohl",
+    "botanicalName": "Brassica oleracea var. sabellica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/gruenkohl"
+  },
+  {
+    "name": "Grünkohl",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/gruenkohl"
   },
@@ -11806,6 +11960,12 @@
     "name": "Gurken",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/gurken"
+  },
+  {
+    "name": "Gurken",
+    "botanicalName": "Cucumis sativus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/gurken"
   },
   {
     "name": "Gurkenmagnolie",
@@ -11942,6 +12102,12 @@
     "name": "Haferwurzel",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/haferwurzel"
+  },
+  {
+    "name": "Haferwurzel",
+    "botanicalName": "Tragopogon porrifolius",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/haferwurzel"
   },
   {
     "name": "Hahnenfuß",
@@ -13378,6 +13544,13 @@
     "waterDemand": "HIGH",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Hühnerhirse",
+    "botanicalName": "Echinochloa crus-galli",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/huehnerhirse/huehnerhirse",
+    "preferredLocation": "SUNNY"
   },
   {
     "name": "Igelkolben",
@@ -15075,6 +15248,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/kartoffeln"
   },
   {
+    "name": "Kartoffeln",
+    "botanicalName": "Solanum tuberosum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/kartoffeln"
+  },
+  {
     "name": "Kartoffelrose",
     "botanicalName": "Rosa rugosa",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -15732,6 +15911,12 @@
     "name": "Kiwano, Horngurke",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/kiwano-horngurke"
+  },
+  {
+    "name": "Kiwano, Horngurke",
+    "botanicalName": "Cucumis metuliferus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/kiwano-horngurke"
   },
   {
     "name": "Kiwi",
@@ -16557,8 +16742,20 @@
   },
   {
     "name": "Knollenfenchel",
+    "botanicalName": "Foeniculum vulgare var. azoricum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/knollenfenchel"
+  },
+  {
+    "name": "Knollenfenchel",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/knollenfenchel"
+  },
+  {
+    "name": "Knollensellerie",
+    "botanicalName": "Apium graveolens var. rapaceum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/knollensellerie"
   },
   {
     "name": "Knollensellerie",
@@ -16638,8 +16835,20 @@
   },
   {
     "name": "Kohlrabi",
+    "botanicalName": "Brassica oleracea var. gongylodes",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/kohlrabi"
+  },
+  {
+    "name": "Kohlrabi",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/kohlrabi"
+  },
+  {
+    "name": "Kohlröschen, Flower Sprouts",
+    "botanicalName": "Brassica oleracea var. gemmifera ‘Flower Sprouts’",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/kohlroeschen-flower-sprouts"
   },
   {
     "name": "Kohlröschen, Flower Sprouts",
@@ -16727,6 +16936,12 @@
     "name": "Kopfsalat",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/kopfsalat"
+  },
+  {
+    "name": "Kopfsalat",
+    "botanicalName": "Lactuca sativa var. capitata",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/kopfsalat"
   },
   {
     "name": "Korallen-Wolfsmilch",
@@ -17412,6 +17627,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Kugelplatane",
+    "botanicalName": "Platanus x hispanica ‘Alphen’s Globe’",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/platane",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Kugelprimel",
     "botanicalName": "Primula denticulata",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -17643,6 +17866,12 @@
   },
   {
     "name": "Kürbis",
+    "botanicalName": "Cucurbita",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/kuerbis"
+  },
+  {
+    "name": "Kürbis",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/kuerbis"
   },
@@ -17772,6 +18001,12 @@
     "waterDemand": "MEDIUM",
     "preferredLocation": "SHADOW_TO_HALF_SHADOWS",
     "isWinterProof": true
+  },
+  {
+    "name": "Lauch, Porree",
+    "botanicalName": "Allium porrum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/lauch-porree"
   },
   {
     "name": "Lauch, Porree",
@@ -18301,6 +18536,12 @@
   },
   {
     "name": "Lollo rosso",
+    "botanicalName": "Lactuca sativa var. crispa ‘Lollo rosso’",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/lollo-rosso"
+  },
+  {
+    "name": "Lollo rosso",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/lollo-rosso"
   },
@@ -18623,6 +18864,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/mairuebchen-mairueben"
   },
   {
+    "name": "Mairübchen, Mairüben",
+    "botanicalName": "Brassica rapa subsp. rapa var. majalis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/mairuebchen-mairueben"
+  },
+  {
     "name": "Majoran",
     "botanicalName": "Origanum majorana",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -18727,6 +18974,12 @@
     "name": "Mangold",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/mangold"
+  },
+  {
+    "name": "Mangold",
+    "botanicalName": "Beta vulgaris subsp. vulgaris",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/mangold"
   },
   {
     "name": "Mannsschild",
@@ -18861,6 +19114,20 @@
     "name": "Meerrettich, Kren",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/meerrettich-kren"
+  },
+  {
+    "name": "Meerrettich, Kren",
+    "botanicalName": "Armoracia rusticana",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/meerrettich-kren"
+  },
+  {
+    "name": "Meersenf",
+    "botanicalName": "Cakile maritima",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/meersenf/meersenf",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Mehlbeere",
@@ -19376,6 +19643,12 @@
   },
   {
     "name": "Muskatkürbis",
+    "botanicalName": "Cucurbita moschata Sorten",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/muskatkuerbis"
+  },
+  {
+    "name": "Muskatkürbis",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/muskatkuerbis"
   },
@@ -19567,6 +19840,20 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kirsche-zierkirsche/maerzkirsche-fujikirsche",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Mäusegerste",
+    "botanicalName": "Hordeum murinum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gerste/maeusegerste",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Möhren",
+    "botanicalName": "Daucus carota subsp. sativus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/moehren"
   },
   {
     "name": "Möhren",
@@ -19837,6 +20124,12 @@
     "waterDemand": "MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Neuseeländer Spinat",
+    "botanicalName": "Tetragonia tetragonoides",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/neuseelaender-spinat"
   },
   {
     "name": "Neuseeländer Spinat",
@@ -20144,6 +20437,12 @@
   },
   {
     "name": "Pak Choi",
+    "botanicalName": "Brassica rapa subsp. chinensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/pak-choi"
+  },
+  {
+    "name": "Pak Choi",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/pak-choi"
   },
@@ -20271,6 +20570,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/paprika"
   },
   {
+    "name": "Paprika",
+    "botanicalName": "Capsicum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/paprika"
+  },
+  {
     "name": "Papyrus, Papyrus-Pflanze",
     "botanicalName": "Cyperus papyrus",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -20304,6 +20609,12 @@
     "name": "Passionsfrucht, Maracuja",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/obst/passionsfrucht-maracuja"
+  },
+  {
+    "name": "Pastinaken",
+    "botanicalName": "Pastinaca sativa",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/pastinaken"
   },
   {
     "name": "Pastinaken",
@@ -20670,6 +20981,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Pfeilkresse",
+    "botanicalName": "Lepidium draba",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/pfeilkresse/pfeilkresse",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Pfeilwurz",
     "botanicalName": "Maranta leuconeura",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -20930,6 +21249,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/weissdorn/pflaumenblaettriger-weissdorn",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Pflücksalat",
+    "botanicalName": "Lactuca sativa var. crispa",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/pfluecksalat"
   },
   {
     "name": "Pflücksalat",
@@ -21783,6 +22108,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Quecke",
+    "botanicalName": "Elymus repens",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/quecke/kriech-quecke-gewoehnliche-quecke",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Quellmoos",
     "botanicalName": "Fontinalis antipyretica",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -21871,6 +22204,18 @@
     "name": "Radicchio",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/radicchio"
+  },
+  {
+    "name": "Radicchio",
+    "botanicalName": "Cichorium intybus var. foliosum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/radicchio"
+  },
+  {
+    "name": "Radieschen",
+    "botanicalName": "Raphanus sativus var. sativus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/radieschen"
   },
   {
     "name": "Radieschen",
@@ -22101,6 +22446,18 @@
     "name": "Rettich",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/rettich"
+  },
+  {
+    "name": "Rettich",
+    "botanicalName": "Raphanus sativus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/rettich"
+  },
+  {
+    "name": "Rhabarber",
+    "botanicalName": "Rheum rhabarbarum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/rhabarber"
   },
   {
     "name": "Rhabarber",
@@ -22945,9 +23302,21 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/romanasalat"
   },
   {
+    "name": "Romanasalat",
+    "botanicalName": "Lactuca sativa var. longifolia",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/romanasalat"
+  },
+  {
     "name": "Romanesco",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/romanesco"
+  },
+  {
+    "name": "Romanesco",
+    "botanicalName": "Brassica oleracea convar. botrytis var. botrytis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/romanesco"
   },
   {
     "name": "Rosa Mädesüß",
@@ -23048,6 +23417,12 @@
     "name": "Rosenkohl",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/rosenkohl"
+  },
+  {
+    "name": "Rosenkohl",
+    "botanicalName": "Brassica oleracea var. gemmifera",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/rosenkohl"
   },
   {
     "name": "Rosenprimel",
@@ -23250,6 +23625,12 @@
     "name": "Rote Bete, Rote Rüben",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/rote-bete-rote-rueben"
+  },
+  {
+    "name": "Rote Bete, Rote Rüben",
+    "botanicalName": "Beta vulgaris",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/rote-bete-rote-rueben"
   },
   {
     "name": "Rote Elfenblume",
@@ -23486,6 +23867,12 @@
     "name": "Rotkohl",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/rotkohl"
+  },
+  {
+    "name": "Rotkohl",
+    "botanicalName": "Brassica oleracea convar. capitata var. rubra",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/rotkohl"
   },
   {
     "name": "Rotlaubige Glanzmispel",
@@ -24045,6 +24432,12 @@
   },
   {
     "name": "Schalotten",
+    "botanicalName": "Allium cepa var. ascalonicum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/schalotten"
+  },
+  {
+    "name": "Schalotten",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/schalotten"
   },
@@ -24525,6 +24918,12 @@
     "name": "Schlangengurken, Salatgurken",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/schlangengurken-salatgurken"
+  },
+  {
+    "name": "Schlangengurken, Salatgurken",
+    "botanicalName": "Cucumis sativus Sorten",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/schlangengurken-salatgurken"
   },
   {
     "name": "Schlangenhautahorn",
@@ -25076,6 +25475,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/schnittknoblauch"
   },
   {
+    "name": "Schnittknoblauch",
+    "botanicalName": "Allium tuberosum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/schnittknoblauch"
+  },
+  {
     "name": "Schnittlauch",
     "botanicalName": "Allium schoenoprasum",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -25096,6 +25501,12 @@
     "name": "Schnittsalat",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/schnittsalat"
+  },
+  {
+    "name": "Schnittsalat",
+    "botanicalName": "Lactuca sativa var. crispa",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/schnittsalat"
   },
   {
     "name": "Schokoladenblume, Schokoladen-Kosmee",
@@ -25376,9 +25787,23 @@
     "isWinterProof": true
   },
   {
+    "name": "Schwarzgold-Philodendron",
+    "botanicalName": "Philodendron melanochrysum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/philodendron/schwarzgold-philodendron",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Schwarzkohl, Palmkohl",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/schwarzkohl-palmkohl"
+  },
+  {
+    "name": "Schwarzkohl, Palmkohl",
+    "botanicalName": "Brassica oleracea var. palmifolia",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/schwarzkohl-palmkohl"
   },
   {
     "name": "Schwarzkümmel",
@@ -25423,6 +25848,12 @@
     "name": "Schwarzwurzeln",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/schwarzwurzel"
+  },
+  {
+    "name": "Schwarzwurzeln",
+    "botanicalName": "Scorzonera hispanica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/schwarzwurzel"
   },
   {
     "name": "Schwarzäugige Susanne",
@@ -25674,6 +26105,12 @@
     "name": "Seifenkraut",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/seifenkraut"
+  },
+  {
+    "name": "Sellerie",
+    "botanicalName": "Apium graveolens",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/sellerie"
   },
   {
     "name": "Sellerie",
@@ -26987,8 +27424,20 @@
   },
   {
     "name": "Stangenbohnen",
+    "botanicalName": "Phaseolus vulgaris var. vulgaris",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/stangenbohnen"
+  },
+  {
+    "name": "Stangenbohnen",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/stangenbohnen"
+  },
+  {
+    "name": "Stangensellerie",
+    "botanicalName": "Apium graveolens var. dulce",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/stangensellerie"
   },
   {
     "name": "Stangensellerie",
@@ -27147,6 +27596,12 @@
     "name": "Steckrüben",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/steckrueben"
+  },
+  {
+    "name": "Steckrüben",
+    "botanicalName": "Brassica napus subsp. napobrassica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/steckrueben"
   },
   {
     "name": "Steinbrech",
@@ -28796,6 +29251,12 @@
   },
   {
     "name": "Tamarillo, Baumtomate",
+    "botanicalName": "Solanum betaceum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/tamarillo-baumtomate"
+  },
+  {
+    "name": "Tamarillo, Baumtomate",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/tamarillo-baumtomate"
   },
@@ -29509,6 +29970,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/teltower-ruebchen"
   },
   {
+    "name": "Teltower Rübchen",
+    "botanicalName": "Brassica rapa subsp. rapa f. teltowiensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/teltower-ruebchen"
+  },
+  {
     "name": "Teppich-Golderdbeere",
     "botanicalName": "Waldsteinia ternata",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -29727,9 +30194,21 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/tomaten"
   },
   {
+    "name": "Tomaten",
+    "botanicalName": "Solanum lycopersicum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/tomaten"
+  },
+  {
     "name": "Tomatillos",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/tomatillos"
+  },
+  {
+    "name": "Tomoffel",
+    "botanicalName": "Solanum Hybride",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/tomoffel"
   },
   {
     "name": "Tomoffel",
@@ -31577,6 +32056,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/weisse-ruebe-herbstruebe"
   },
   {
+    "name": "Weiße Rübe, Herbstrübe",
+    "botanicalName": "Brassica rapa subsp. rapa subvar. esculenta",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/weisse-ruebe-herbstruebe"
+  },
+  {
     "name": "Weiße Seerose",
     "botanicalName": "Nymphaea alba",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -31617,11 +32102,27 @@
     "isWinterProof": false
   },
   {
+    "name": "Weißer Gänsefuß",
+    "botanicalName": "Chenopodium album",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gaensefuss/weisser-gaensefuss",
+    "preferredLocation": "NO_MATTER",
+    "isWinterProof": false
+  },
+  {
     "name": "Weißer Hartriegel",
     "botanicalName": "Cornus alba",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hartriegel/weisser-hartriegel",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Weißer Lavendel",
+    "botanicalName": "Lavandula angustifolia \u0027Alba\u0027",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/lavendel/weisser-lavendel",
+    "preferredLocation": "SUNNY",
     "isWinterProof": true
   },
   {
@@ -31649,6 +32150,12 @@
     "name": "Weißkohl",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/weisskohl"
+  },
+  {
+    "name": "Weißkohl",
+    "botanicalName": "Brassica oleracea convar. capitata var. alba",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/weisskohl"
   },
   {
     "name": "Weißrand-Funkie",
@@ -31974,6 +32481,13 @@
     "isWinterProof": true
   },
   {
+    "name": "Windenknöterich",
+    "botanicalName": "Fallopia convolvulus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/knoeterich/windenknoeterich",
+    "preferredLocation": "SUNNY"
+  },
+  {
     "name": "Winkelsegge",
     "botanicalName": "Carex remota",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -32048,6 +32562,12 @@
   },
   {
     "name": "Winterheckenzwiebel",
+    "botanicalName": "Allium fistulosum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/winterheckenzwiebel"
+  },
+  {
+    "name": "Winterheckenzwiebel",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/winterheckenzwiebel"
   },
@@ -32113,6 +32633,12 @@
     "name": "Wirsing",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/wirsing"
+  },
+  {
+    "name": "Wirsing",
+    "botanicalName": "Brassica oleracea convar. capitata var. sabauda",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/wirsing"
   },
   {
     "name": "Wolfs-Eisenhut",
@@ -32987,6 +33513,20 @@
     "isWinterProof": true
   },
   {
+    "name": "Zottiges Weidenröschen",
+    "botanicalName": "Epilobium hirsutum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/weidenroeschen/zottiges-weidenroeschen",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Zucchini",
+    "botanicalName": "Cucurbita pepo subsp. pepo convar. giromontiina",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/zucchini"
+  },
+  {
     "name": "Zucchini",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/zucchini"
@@ -32998,6 +33538,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/ahorn/zuckerahorn",
     "preferredLocation": "NO_MATTER",
     "isWinterProof": true
+  },
+  {
+    "name": "Zuckerhut, Zichoriensalat",
+    "botanicalName": "Cichorium intybus var. foliosum f. cylindricum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/zuckerhut-zichoriensalat"
   },
   {
     "name": "Zuckerhut, Zichoriensalat",
@@ -33030,6 +33576,12 @@
     "name": "Zuckermelonen",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/zuckermelonen-anbauen"
+  },
+  {
+    "name": "Zuckermelonen",
+    "botanicalName": "Cucumis melo",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/zuckermelonen-anbauen"
   },
   {
     "name": "Zuckerschoten, Zuckererbsen",
@@ -33550,6 +34102,12 @@
     "name": "Zwetschge, Zwetschgenbaum",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/obst/zwetschge-zwetschgenbaum"
+  },
+  {
+    "name": "Zwiebeln",
+    "botanicalName": "Allium cepa",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/zwiebeln"
   },
   {
     "name": "Zwiebeln",
