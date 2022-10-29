@@ -17,10 +17,12 @@ import org.jsoup.Jsoup;
 import java.io.*;
 import java.lang.reflect.Type;
 import java.nio.charset.StandardCharsets;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Map;
+import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class PlantsDatabaseCreator {
 
@@ -47,7 +49,7 @@ public class PlantsDatabaseCreator {
             }
         }
 
-        Stream.of(PlantInfoSource.MEIN_SCHOENER_GARTEN)
+        Arrays.stream(PlantInfoSource.values())
                 .flatMap(plantInfoSource -> new SitemapUrlExtractor().fetchContentUrls(plantInfoSource.getBaseUrl()).stream()
                         .map(contentUrl -> Pair.of(plantInfoSource, contentUrl)))
                 .parallel()
