@@ -2,9 +2,9 @@ package ch.projectplants.database.crawling;
 
 import ch.projectplants.database.crawling.siteindex.Sitemapindex;
 import ch.projectplants.database.crawling.siteindex.TSitemap;
+import ch.projectplants.database.crawling.sitemap.ObjectFactory;
 import ch.projectplants.database.crawling.sitemap.TUrl;
 import ch.projectplants.database.crawling.sitemap.Urlset;
-import ch.projectplants.database.crawling.sitemap.ObjectFactory;
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
 import jakarta.xml.bind.Unmarshaller;
@@ -35,6 +35,10 @@ public class SitemapUrlExtractor {
             Set<URL> contentUrls = new HashSet<>();
 
             var result = fetchUrl(sitemapUrl);
+            if (result == null) {
+                return contentUrls;
+            }
+
             if (result instanceof Sitemapindex sitemapindex) {
                 for (TSitemap sitemapEntry : sitemapindex.getSitemap()) {
                     URL sitemapEntryUrl = createUrl(sitemapEntry.getLoc());
@@ -65,7 +69,12 @@ public class SitemapUrlExtractor {
                 .GET()
                 .build();
 
-        try (InputStream inputStream = httpClient.send(request, HttpResponse.BodyHandlers.ofInputStream()).body()) {
+        HttpResponse<InputStream> response = httpClient.send(request, HttpResponse.BodyHandlers.ofInputStream());
+        if (response.statusCode() != 200) {
+            return null;
+        }
+
+        try (InputStream inputStream = response.body()) {
             return sitemapUnmarshaller.unmarshal(inputStream);
         }
     }
