@@ -527,6 +527,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Alraune",
+    "botanicalName": "Mandragora officinarum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/alraune/alraune",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Alte Rose ‘Amélia’",
     "botanicalName": "Rosa x alba ‘Amélia’",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -4019,6 +4027,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Brauner Streifenfarn",
+    "botanicalName": "Asplenium trichomanes",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/streifenfarn/brauner-streifenfarn",
+    "preferredLocation": "NO_MATTER",
+    "isWinterProof": true
+  },
+  {
     "name": "Braunrotes Stachelnüsschen ‘Kupferteppich’",
     "botanicalName": "Acaena microphylla ‘Kupferteppich’",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -5597,6 +5613,14 @@
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/1912/verbascum-nigrum",
     "waterDemand": "MEDIUM",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Durchwachsene Silphie",
+    "botanicalName": "Silphium perfoliatum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/silphie/durchwachsene-silphie",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
   },
@@ -8143,6 +8167,13 @@
     "isWinterProof": true
   },
   {
+    "name": "Fingeraralie",
+    "botanicalName": "Plerandra elegantissima",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/plerandra/fingeraralie",
+    "preferredLocation": "SUNNY"
+  },
+  {
     "name": "Fingerhut",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/fingerhut"
@@ -9413,6 +9444,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Garten-Wolfsmilch",
+    "botanicalName": "Euphorbia peplus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/wolfsmilch/garten-wolfsmilch",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Garten-Zinnie",
     "botanicalName": "Zinnia elegans",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -10601,6 +10640,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/efeu/gewoehnlicher-efeu",
     "preferredLocation": "NO_MATTER",
     "isWinterProof": true
+  },
+  {
+    "name": "Gewöhnlicher Erdrauch",
+    "botanicalName": "Fumaria officinalis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/erdrauch/gewoehnlicher-erdrauch",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Gewöhnlicher Feldrittersporn",
@@ -16164,6 +16211,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Kleine Wasserlinse",
+    "botanicalName": "Lemna minor",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/wasserlinse/kleine-wasserlinse-entengruetze",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Kleiner Federbuschstrauch",
     "botanicalName": "Fothergilla gardenii",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -16195,6 +16250,13 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/ampfer/kleiner-sauerampfer",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Kleiner Storchschnabel",
+    "botanicalName": "Geranium pusillum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/storchschnabel/kleiner-storchschnabel",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
   },
   {
     "name": "Kleiner Wiesenknopf",
@@ -16389,6 +16451,13 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/rose/kleinstrauchrose-venice",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Kletten-Labkraut",
+    "botanicalName": "Galium aparine",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/labkraut/kletten-labkraut",
+    "preferredLocation": "NO_MATTER"
   },
   {
     "name": "Kletter-Philodendron, Kletternder Baumfreund",
@@ -16813,6 +16882,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/knoblauch"
   },
   {
+    "name": "Knoblauch",
+    "botanicalName": "Allium sativum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/knoblauch"
+  },
+  {
     "name": "Knoblauchsrauke",
     "botanicalName": "Alliaria petiolata",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -16929,6 +17004,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kobralilie-kobraschlauchpflanze/kobralilie",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Kohl",
+    "botanicalName": "Brassica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/kohl"
   },
   {
     "name": "Kohl",
@@ -19220,6 +19301,12 @@
   },
   {
     "name": "Meerkohl",
+    "botanicalName": "Crambe maritima",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/meerkohl"
+  },
+  {
+    "name": "Meerkohl",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/meerkohl"
   },
@@ -20507,6 +20594,13 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/iris-schwertlilie/orientalische-schwertlilie",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Orientalisches Zackenschötchen",
+    "botanicalName": "Bunias orientalis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/zackenschoetchen/orientalisches-zackenschoetchen",
+    "preferredLocation": "SUNNY"
   },
   {
     "name": "Origanum, Dost",
@@ -30384,6 +30478,12 @@
   },
   {
     "name": "Tomatillos",
+    "botanicalName": "Physalis philadelphica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/tomatillos"
+  },
+  {
+    "name": "Tomatillos",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/tomatillos"
   },
@@ -30397,6 +30497,12 @@
     "name": "Tomoffel",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/tomoffel"
+  },
+  {
+    "name": "Topinambur",
+    "botanicalName": "Helianthus tuberosus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/topinambur"
   },
   {
     "name": "Topinambur",
