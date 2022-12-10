@@ -31898,6 +31898,13 @@
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
   },
   {
+    "name": "Wasserknöterich",
+    "botanicalName": "Persicaria amphibia",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/knoeterich/wasserknoeterich",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
     "name": "Wasserlilie",
     "botanicalName": "Iris pseudacorus",
     "source": "MEIN_SCHOENER_GARTEN",
