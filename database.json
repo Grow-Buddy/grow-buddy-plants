@@ -4547,6 +4547,14 @@
     "isWinterProof": false
   },
   {
+    "name": "Ceylon-Zimtbaum",
+    "botanicalName": "Cinnamomum verum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/cinnamomum/zimtbaum",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Chayote",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/chayote"
@@ -15636,6 +15644,12 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kentiapalme/kentiapalme",
     "preferredLocation": "NO_MATTER"
+  },
+  {
+    "name": "Kerbelrübe",
+    "botanicalName": "Chaerophyllum bulbosum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kaelberkroepfe/kerbelruebe"
   },
   {
     "name": "Kerrie, Ranunkelstrauch",
