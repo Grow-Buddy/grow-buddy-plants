@@ -23649,6 +23649,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/rosen"
   },
   {
+    "name": "Rosen-Malve",
+    "botanicalName": "Malva alcea",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/wilde-malve/rosen-malve",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Rosenakazie",
     "botanicalName": "Robinia hispida",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -26437,6 +26445,14 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/perilla/shiso",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Sibirische Lärche",
+    "botanicalName": "Larix sibirica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/laerche/sibirische-laerche",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
   },
   {
     "name": "Sibirische Schwertlilie",
