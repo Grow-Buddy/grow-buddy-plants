@@ -225,6 +225,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Affodillgewächse",
+    "botanicalName": "Asphodeloideae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/affodillgewaechse"
+  },
+  {
     "name": "Afghanischer Flieder",
     "botanicalName": "Syringa protolaciniata",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -307,6 +313,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/platane/ahornblaettrige-platane",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Akanthusgewächse",
+    "botanicalName": "Acanthaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/akanthusgewaechse"
   },
   {
     "name": "Akazien",
@@ -1477,6 +1489,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/ballonblume/ballonblume",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Balsaminengewächse",
+    "botanicalName": "Balsaminaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/balsaminengewaechse"
   },
   {
     "name": "Balsampappel",
@@ -5217,6 +5235,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/narzisse/dichternarzisse",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Dickblattgewächse",
+    "botanicalName": "Crassulaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/dickblattgewaechse"
   },
   {
     "name": "Dicke Bohnen, Puffbohnen",
@@ -12156,6 +12180,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Gänsefußgewächse",
+    "botanicalName": "Chenopodiaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gaensefussgewaechse"
+  },
+  {
     "name": "Gänsekresse",
     "botanicalName": "Arabis ferdinandi-coburgii \u0027Variegata\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -12345,6 +12375,12 @@
     "name": "Hartriegel",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hartriegel"
+  },
+  {
+    "name": "Hartriegelgewächse",
+    "botanicalName": "Cornaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hartriegelgewaechse"
   },
   {
     "name": "Hartwegs Bartfaden",
@@ -17189,6 +17225,12 @@
     "isWinterProof": false
   },
   {
+    "name": "Korbblütler",
+    "botanicalName": "Asteraceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/korbbluetler"
+  },
+  {
     "name": "Korbweide",
     "botanicalName": "Salix viminalis",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -18071,6 +18113,12 @@
     "name": "Kürbis",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/kuerbis"
+  },
+  {
+    "name": "Kürbisgewächse",
+    "botanicalName": "Cucurbitaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kuerbisgewaechse"
   },
   {
     "name": "Küstenmammutbaum",
@@ -27432,6 +27480,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/spinat"
   },
   {
+    "name": "Spindelbaumgewächse",
+    "botanicalName": "Celastraceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/spindelbaumgewaechse"
+  },
+  {
     "name": "Spindelstrauch",
     "botanicalName": "Euonymus fortunei \u0027Emerald Gaiety\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -30190,6 +30244,12 @@
     "isWinterProof": false
   },
   {
+    "name": "Teestrauchgewächse",
+    "botanicalName": "Theaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/teestrauchgewaechse"
+  },
+  {
     "name": "Teichrose, Mummel",
     "botanicalName": "Nuphar lutea",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -32860,6 +32920,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Windengewächse",
+    "botanicalName": "Convolvulaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/windengewaechse"
+  },
+  {
     "name": "Windenknöterich",
     "botanicalName": "Fallopia convolvulus",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -33313,6 +33379,12 @@
     "name": "Zeder",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/zeder"
+  },
+  {
+    "name": "Zeitlosengewächse",
+    "botanicalName": "Colchicaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/zeitlosengewaechse"
   },
   {
     "name": "Zerberusbaum, Selbstmordbaum",
