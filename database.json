@@ -302,6 +302,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/agave"
   },
   {
+    "name": "Agavengewächse",
+    "botanicalName": "Agavaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/agavengewaechse"
+  },
+  {
     "name": "Ahorn",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/ahorn"
@@ -576,6 +582,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/rittersterne/amaryllis-ritterstern-hippeastrum-vittatum-hybride",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": false
+  },
+  {
+    "name": "Amaryllisgewächse",
+    "botanicalName": "Amaryllidaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/amaryllisgewaechse"
   },
   {
     "name": "Amberbaum",
@@ -1143,6 +1155,18 @@
     "isWinterProof": false
   },
   {
+    "name": "Araliengewächse",
+    "botanicalName": "Araliaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/araliengewaechse"
+  },
+  {
+    "name": "Araukariengewächse",
+    "botanicalName": "Araucariaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/araukariengewaechse"
+  },
+  {
     "name": "Arends Prachtspieren",
     "botanicalName": "Astilbe x arendsii",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -1181,6 +1205,12 @@
     "name": "Aronstab",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/aronstab"
+  },
+  {
+    "name": "Aronstabgewächse",
+    "botanicalName": "Araceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/aronstabgewaechse"
   },
   {
     "name": "Artischocken",
@@ -1423,6 +1453,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Baldriangewächse",
+    "botanicalName": "Valerianaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/baldriangewaechse"
+  },
+  {
     "name": "Balkan-Bärenklau, Akanthus",
     "botanicalName": "Acanthus hungaricus",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -1620,6 +1656,12 @@
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/713/fargesia-murieliae-jumbo",
     "waterDemand": "MEDIUM_TO_HIGH",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Bananengewächse",
+    "botanicalName": "Musaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/bananengewaechse"
   },
   {
     "name": "Bananenpflanze, Japanische Faserbanane",
@@ -2320,6 +2362,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/berberitzen"
   },
   {
+    "name": "Berberitzengewächse",
+    "botanicalName": "Berberidaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/berberitzengewaechse"
+  },
+  {
     "name": "Bereifte Rose",
     "botanicalName": "Rosa glauca",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -2736,6 +2784,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/binsen"
   },
   {
+    "name": "Binsengewächse",
+    "botanicalName": "Juncaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/binsengewaechse"
+  },
+  {
     "name": "Binsenlilie",
     "botanicalName": "Sisyrinchium bermudianum",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -2756,6 +2810,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/feige/birkenfeige",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": false
+  },
+  {
+    "name": "Birkengewächse",
+    "botanicalName": "Betulaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/birkengewaechse"
   },
   {
     "name": "Birne \u0027Clapps Liebling\u0027",
@@ -3492,6 +3552,12 @@
     "preferredLocation": "SUNNY"
   },
   {
+    "name": "Bleiwurzgewächse",
+    "botanicalName": "Plumbaginaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/bleiwurzgewaechse"
+  },
+  {
     "name": "Blumenesche",
     "botanicalName": "Fraxinus ornus",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -4061,6 +4127,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Braunwurzgewächse",
+    "botanicalName": "Scrophulariaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/braunwurzgewaechse"
+  },
+  {
     "name": "Brautspiere, Schneespiere",
     "botanicalName": "Spiraea x arguta",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -4118,6 +4190,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Brennnesselgewächse",
+    "botanicalName": "Urticaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/brennnesselgewaechse"
+  },
+  {
     "name": "Brokkoli",
     "botanicalName": "Brassica oleracea var. italica",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -4159,6 +4237,12 @@
     "name": "Brombeeren",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/obst/brombeeren"
+  },
+  {
+    "name": "Bromeliengewächse",
+    "botanicalName": "Bromeliaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/bromeliengewaechse"
   },
   {
     "name": "Brotfruchtbaum",
@@ -4211,6 +4295,12 @@
     "waterDemand": "MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Buchengewächse",
+    "botanicalName": "Fagaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/buchengewaechse"
   },
   {
     "name": "Buchsbaum",
@@ -4422,6 +4512,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/baerentraube/baerentraube",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Bärlappgewächse",
+    "botanicalName": "Lycopodiaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/baerlappgewaechse"
   },
   {
     "name": "Bärlauch",
@@ -5353,6 +5449,12 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/milchsterne/dolden-milchstern",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Doldenblütler",
+    "botanicalName": "Apiaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/doldenbluetler"
   },
   {
     "name": "Doldenglockenblume",
@@ -6374,6 +6476,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/eiben"
   },
   {
+    "name": "Eibengewächse",
+    "botanicalName": "Taxaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/eibengewaechse"
+  },
+  {
     "name": "Eichblattsalat",
     "botanicalName": "Lactus sativa var. crispa",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -6490,6 +6598,12 @@
     "waterDemand": "MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Eisenkrautgewächse",
+    "botanicalName": "Verbenaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/eisenkrautgewaechse"
   },
   {
     "name": "Elatior-Begonien, Zimmerbegonien",
@@ -9227,6 +9341,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Fuchsschwanzgewächse",
+    "botanicalName": "Amaranthaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/fuchsschwanzgewaechse"
+  },
+  {
     "name": "Funkien",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/funkien"
@@ -10497,6 +10617,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Gesneriengewächse",
+    "botanicalName": "Gesneriaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gesneriengewaechse"
+  },
+  {
     "name": "Gestreiftblättriges Reitgras",
     "botanicalName": "Calamagrostis acutiflora (x) \u0027Overdam\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -11149,6 +11275,12 @@
     "waterDemand": "LOW_TO_MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Glockenblumengewächse",
+    "botanicalName": "Campanulaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/glockenblumengewaechse"
   },
   {
     "name": "Glockenhasel",
@@ -12284,6 +12416,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hahnenfuss"
   },
   {
+    "name": "Hahnenfußgewächse",
+    "botanicalName": "Ranunculaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hahnenfussgewaechse"
+  },
+  {
     "name": "Hainblume",
     "botanicalName": "Nemophila maculata",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -12319,6 +12457,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hammerstrauch/hammerstrauch",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": false
+  },
+  {
+    "name": "Hanfgewächse",
+    "botanicalName": "Cannabaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hanfgewaechse"
   },
   {
     "name": "Harfenstrauch, Plectranthus",
@@ -12561,6 +12705,12 @@
     "name": "Heidekraut, Erika",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/heidekraut-erika"
+  },
+  {
+    "name": "Heidekrautgewächse",
+    "botanicalName": "Ericaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/heidekrautgewaechse"
   },
   {
     "name": "Heidelbeere, Blaubeere",
@@ -13401,6 +13551,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hortensien"
   },
   {
+    "name": "Hortensiengewächse",
+    "botanicalName": "Hydrangeaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hortensiengewaechse"
+  },
+  {
     "name": "Hosta, Funkie",
     "botanicalName": "Hosta \u0027Royal Standard\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -13443,6 +13599,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/huflattich/huflattich",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Hundsgiftgewächse",
+    "botanicalName": "Apocynaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hundsgiftgewaechse"
   },
   {
     "name": "Hundsrose, Heckenrose",
@@ -13728,6 +13890,11 @@
     "preferredLocation": "SUNNY"
   },
   {
+    "name": "Hülsenfrüchtler",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/huelsenfruechtler"
+  },
+  {
     "name": "Igelkolben",
     "botanicalName": "Sparganium erectum",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -13905,6 +14072,12 @@
     "botanicalName": "Zingiber officinalis",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/ingwer/ingwer"
+  },
+  {
+    "name": "Ingwergewächse",
+    "botanicalName": "Zingiberaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/ingwergewaechse"
   },
   {
     "name": "Inkagurken",
@@ -14876,6 +15049,12 @@
     "preferredLocation": "SUNNY"
   },
   {
+    "name": "Johannisbrotgewächse",
+    "botanicalName": "Caesalpiniaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/johannisbrotgewaechse"
+  },
+  {
     "name": "Johanniskraut",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/johanniskraut"
@@ -15114,6 +15293,12 @@
     "name": "Kakibaum, Kakipflaume",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/obst/kakibaum-kakipflaume"
+  },
+  {
+    "name": "Kakteengewächse",
+    "botanicalName": "Cactaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kakteengewaechse"
   },
   {
     "name": "Kaktus-Wolfsmilch",
@@ -15372,6 +15557,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/steppendistel/kardendistel",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Kardengewächse",
+    "botanicalName": "Dipsacaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kardengewaechse"
   },
   {
     "name": "Karminroter Zylinderputzer",
@@ -15688,6 +15879,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kaelberkroepfe/kerbelruebe"
   },
   {
+    "name": "Kermesbeerengewächse",
+    "botanicalName": "Phytolaccaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kermesbeerengewaechse"
+  },
+  {
     "name": "Kerrie, Ranunkelstrauch",
     "botanicalName": "Kerria japonica",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -15761,6 +15958,12 @@
     "name": "Kiefern",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kiefern"
+  },
+  {
+    "name": "Kieferngewächse",
+    "botanicalName": "Pinaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kieferngewaechse"
   },
   {
     "name": "Kirks Bogenhanf",
@@ -17048,6 +17251,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/knoeterich"
   },
   {
+    "name": "Knöterichgewächse",
+    "botanicalName": "Polygonaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/knoeterichgewaechse"
+  },
+  {
     "name": "Kobralilie",
     "botanicalName": "Darlingtonia californica",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -17456,11 +17665,23 @@
     "isWinterProof": true
   },
   {
+    "name": "Kreuzblütler",
+    "botanicalName": "Brassicaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kreuzbluetler"
+  },
+  {
     "name": "Kreuzdorn",
     "botanicalName": "Rhamnus cathartica",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/1556/rhamnus-cathartica",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Kreuzdorngewächse",
+    "botanicalName": "Rhamnaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kreuzdorngewaechse"
   },
   {
     "name": "Kreuzkraut",
@@ -18499,6 +18720,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Leingewächse",
+    "botanicalName": "Linaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/leingewaechse"
+  },
+  {
     "name": "Leinkraut",
     "botanicalName": "Linaria purpurea",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -18680,6 +18907,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Liliengewächse",
+    "botanicalName": "Liliaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/liliengewaechse"
+  },
+  {
     "name": "Lilienmagnolie",
     "botanicalName": "Magnolia liliiflora \u0027Nigra\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -18763,6 +18996,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/linsen"
   },
   {
+    "name": "Lippenblütler",
+    "botanicalName": "Lamiaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/lippenbluetler"
+  },
+  {
     "name": "Liriope",
     "botanicalName": "Liriope muscari",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -18833,6 +19072,12 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/feige/lorbeerfeige-chinesische-feige",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Lorbeergewächse",
+    "botanicalName": "Lauraceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/lorbeergewaechse"
   },
   {
     "name": "Lorbeerrose",
@@ -19016,6 +19261,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/magnolien"
   },
   {
+    "name": "Magnoliengewächse",
+    "botanicalName": "Magnoliaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/magnoliengewaechse"
+  },
+  {
     "name": "Mahagoni-Kirsche",
     "botanicalName": "Prunus serrula",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -19155,6 +19406,12 @@
     "name": "Malabarspinat, Indischer Spinat",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/malabarspinat"
+  },
+  {
+    "name": "Malvengewächse",
+    "botanicalName": "Malvaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/malvengewaechse"
   },
   {
     "name": "Mammutblatt, Gunnera",
@@ -19345,6 +19602,12 @@
     "name": "Maulbeeren",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/obst/maulbeeren"
+  },
+  {
+    "name": "Maulbeergewächse",
+    "botanicalName": "Moraceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/maulbeergewaechse"
   },
   {
     "name": "Mazari-Palme",
@@ -19585,6 +19848,12 @@
     "isWinterProof": false
   },
   {
+    "name": "Mittagsblumengewächse",
+    "botanicalName": "Aizoaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/mittagsblumengewaechse"
+  },
+  {
     "name": "Mittagsblümchen",
     "botanicalName": "Delosperma nubigenum",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -19630,6 +19899,12 @@
     "name": "Mohn",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/mohn"
+  },
+  {
+    "name": "Mohngewächse",
+    "botanicalName": "Papaveraceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/mohngewaechse"
   },
   {
     "name": "Mojito-Minze, Hemingway-Minze",
@@ -19837,6 +20112,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Moschuskrautgewächse",
+    "botanicalName": "Adoxaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/moschuskrautgewaechse"
+  },
+  {
     "name": "Moschusmalve",
     "botanicalName": "Malva moschata",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -19946,6 +20227,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/aster/myrtenaster",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Myrtengewächse",
+    "botanicalName": "Myrtaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/myrtengewaechse"
   },
   {
     "name": "Mädchenauge",
@@ -20190,12 +20477,24 @@
     "isWinterProof": true
   },
   {
+    "name": "Nachtkerzengewächse",
+    "botanicalName": "Onagraceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nachtkerzengewaechse"
+  },
+  {
     "name": "Nachtschatten",
     "botanicalName": "Solanum jasminoides",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/1768/solanum-jasminoides",
     "waterDemand": "MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Nachtschattengewächse",
+    "botanicalName": "Solanaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nachtschattengewaechse"
   },
   {
     "name": "Nachtviole",
@@ -20302,6 +20601,12 @@
     "name": "Nelken",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nelken"
+  },
+  {
+    "name": "Nelkengewächse",
+    "botanicalName": "Caryophyllaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nelkengewaechse"
   },
   {
     "name": "Nelkenwurz",
@@ -20620,6 +20925,12 @@
     "preferredLocation": "SUNNY"
   },
   {
+    "name": "Orchideengewächse",
+    "botanicalName": "Orchidaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/orchideengewaechse"
+  },
+  {
     "name": "Orchideenprimel",
     "botanicalName": "Primula vialii",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -20737,6 +21048,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/wolfsmilch/palisaden-wolfsmilch",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Palmengewächse",
+    "botanicalName": "Arecaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/palmengewaechse"
   },
   {
     "name": "Palmfarn",
@@ -21138,6 +21455,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Pfeffergewächse",
+    "botanicalName": "Piperaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/pfeffergewaechse"
+  },
+  {
     "name": "Pfefferminze",
     "botanicalName": "Mentha x piperita",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -21291,6 +21614,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/pfeilwurz/pfeilwurz",
     "preferredLocation": "HALF_SHADOWS",
     "isWinterProof": false
+  },
+  {
+    "name": "Pfeilwurzgewächse",
+    "botanicalName": "Marantaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/pfeilwurzgewaechse"
   },
   {
     "name": "Pfennigkraut",
@@ -21888,6 +22217,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuse/portulak"
   },
   {
+    "name": "Portulakgewächse",
+    "botanicalName": "Portulacaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/portulakgewaechse"
+  },
+  {
     "name": "Portulakröschen",
     "botanicalName": "Portulaca grandiflora",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -22107,6 +22442,12 @@
     "name": "Primel",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/primel"
+  },
+  {
+    "name": "Primelgewächse",
+    "botanicalName": "Primulaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/primelgewaechse"
   },
   {
     "name": "Protea, Zuckerbusch",
@@ -22644,6 +22985,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Raublattgewächse",
+    "botanicalName": "Boraginaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/raublattgewaechse"
+  },
+  {
     "name": "Rauer Löwenzahn",
     "botanicalName": "Leontodon hispidus",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -22665,6 +23012,12 @@
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/580/dasylirion-serratifolium",
     "waterDemand": "LOW",
     "preferredLocation": "SUNNY"
+  },
+  {
+    "name": "Rautengewächse",
+    "botanicalName": "Rutaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/rautengewaechse"
   },
   {
     "name": "Rebhuhnbeere",
@@ -23229,6 +23582,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Riedgrasgewächse, Sauergrasgewächse",
+    "botanicalName": "Cyperaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/riedgrasgewaechse"
+  },
+  {
     "name": "Riemenblüte",
     "botanicalName": "Loropetalum chinense",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -23743,6 +24102,12 @@
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/885/hibiscus-rosa-sinensis",
     "waterDemand": "MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Rosengewächse",
+    "botanicalName": "Rosaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/rosengewaechse"
   },
   {
     "name": "Rosenkohl",
@@ -24348,6 +24713,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Rötegewächse",
+    "botanicalName": "Rubiaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/roetegewaechse"
+  },
+  {
     "name": "Saatmohn",
     "botanicalName": "Papaver dubium",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -24718,6 +25089,12 @@
     "name": "Schachbrettblume, Kaiserkrone",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schachbrettblume-kaiserkrone"
+  },
+  {
+    "name": "Schachtelhalmgewächse",
+    "botanicalName": "Equisetaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schachtelhalmgewaechse"
   },
   {
     "name": "Schafgarbe",
@@ -25114,6 +25491,12 @@
     "name": "Scheinzypressen",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/scheinzypressen"
+  },
+  {
+    "name": "Schiefblattgewächse",
+    "botanicalName": "Begoniaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schiefblattgewaechse"
   },
   {
     "name": "Schiefteller",
@@ -26255,6 +26638,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schwertlilien"
   },
   {
+    "name": "Schwertliliengewächse",
+    "botanicalName": "Iridaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schwertliliengewaechse"
+  },
+  {
     "name": "Schwiegermuttersitz",
     "botanicalName": "Echinocactus grusonii",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -26370,6 +26759,12 @@
     "preferredLocation": "SUNNY"
   },
   {
+    "name": "Seerosengewächse",
+    "botanicalName": "Nymphaeaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/seerosengewaechse"
+  },
+  {
     "name": "Segge",
     "botanicalName": "Carex oshimensis \u0027Evergold\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -26437,6 +26832,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/seifenbaum/seifenbaum",
     "preferredLocation": "SUNNY",
     "isWinterProof": false
+  },
+  {
+    "name": "Seifenbaumgewächse",
+    "botanicalName": "Sapindaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/seifenbaumgewaechse"
   },
   {
     "name": "Seifenkraut",
@@ -26629,6 +27030,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/ahorn/silberahorn",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Silberbaumgewächse",
+    "botanicalName": "Proteaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/silberbaumgewaechse"
   },
   {
     "name": "Silberblatt",
@@ -27279,6 +27686,12 @@
     "preferredLocation": "SUNNY"
   },
   {
+    "name": "Spargelgewächse",
+    "botanicalName": "Asparagaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/spargelgewaechse"
+  },
+  {
     "name": "Spatelblättrige Fetthenne",
     "botanicalName": "Sedum spathulifolium",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -27730,6 +28143,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/obst/stachelbeeren"
   },
   {
+    "name": "Stachelbeergewächse",
+    "botanicalName": "Grossulariaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/stachelbeergewaechse"
+  },
+  {
     "name": "Stacheldrahtrose",
     "botanicalName": "Rosa sericea subsp. omeiensis fo. pteracantha",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -27949,6 +28368,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/stechpalmen-ilex"
   },
   {
+    "name": "Stechpalmengewächse",
+    "botanicalName": "Aquifoliaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/stechpalmengewaechse"
+  },
+  {
     "name": "Steckenpalme",
     "botanicalName": "Rhapis excelsa",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -27970,6 +28395,12 @@
     "name": "Steinbrech",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/steinbrech"
+  },
+  {
+    "name": "Steinbrechgewächse",
+    "botanicalName": "Saxifragaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/steinbrechgewaechse"
   },
   {
     "name": "Steineibe",
@@ -28417,6 +28848,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/storchschnabel/storchschnabel-rozanne",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Storchschnabelgewächse",
+    "botanicalName": "Geraniaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/storchschnabelgewaechse"
   },
   {
     "name": "Strahlengriffel",
@@ -29138,6 +29575,12 @@
     "preferredLocation": "SHADOW_TO_HALF_SHADOWS"
   },
   {
+    "name": "Sumachgewächse",
+    "botanicalName": "Anacardiaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/sumachgewaechse"
+  },
+  {
     "name": "Sumpf-Dreizack",
     "botanicalName": "Triglochin palustris",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -29547,6 +29990,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/suessdolde/suessdolde",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Süßgräser",
+    "botanicalName": "Poaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/suessgraeser"
   },
   {
     "name": "Süßholz",
@@ -30867,6 +31316,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Trompetenbaumgewächse",
+    "botanicalName": "Bignoniaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/trompetenbaumgewaechse"
+  },
+  {
     "name": "Trompetenwinde",
     "botanicalName": "Campsis tagliabuana (x) \u0027Mme Galen\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -31134,6 +31589,12 @@
     "waterDemand": "MEDIUM",
     "preferredLocation": "NO_MATTER",
     "isWinterProof": true
+  },
+  {
+    "name": "Veilchengewächse",
+    "botanicalName": "Violaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/veilchengewaechse"
   },
   {
     "name": "Venusfliegenfalle",
@@ -31875,6 +32336,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Walnussgewächse",
+    "botanicalName": "Juglandaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/walnussgewaechse"
+  },
+  {
     "name": "Walzen-Wolfsmilch",
     "botanicalName": "Euphorbia myrsinites",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -32081,6 +32548,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Wegerichgewächse",
+    "botanicalName": "Plantaginaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/wegerichgewaechse"
+  },
+  {
     "name": "Wegwarte",
     "botanicalName": "Cichorium intybus",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -32125,6 +32598,18 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/sonnenblume/weidenblaettrige-sonnenblume",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Weidengewächse",
+    "botanicalName": "Salicaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/weidengewaechse"
+  },
+  {
+    "name": "Weiderichgewächse",
+    "botanicalName": "Lythraceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/weiderichgewaechse"
   },
   {
     "name": "Weigelie",
@@ -33133,6 +33618,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/wolfsmilch-euphorbia"
   },
   {
+    "name": "Wolfsmilchgewächse",
+    "botanicalName": "Euphorbiaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/wolfsmilchgewaechse"
+  },
+  {
     "name": "Wollemie",
     "botanicalName": "Wollemia nobilis",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -33197,6 +33688,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/wunderblume/wunderblume-mirabilis",
     "preferredLocation": "SUNNY",
     "isWinterProof": false
+  },
+  {
+    "name": "Wunderblumengewächse",
+    "botanicalName": "Nyctaginaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/wunderblumengewaechse"
   },
   {
     "name": "Wundklee",
@@ -33318,6 +33815,12 @@
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/838/hamamelis-intermedia-x-pallida",
     "waterDemand": "MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Zaubernussgewächse",
+    "botanicalName": "Hamamelidaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/zaubernussgewaechse"
   },
   {
     "name": "Zauberschnee",
@@ -34658,6 +35161,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Zypressengewächse",
+    "botanicalName": "Cupressaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/zypressengewaechse"
+  },
+  {
     "name": "Zypressenwolfsmilch",
     "botanicalName": "Euphorbia cyparissias",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -34778,6 +35287,12 @@
     "isWinterProof": true
   },
   {
+    "name": "Ölbaumgewächse",
+    "botanicalName": "Oleaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/oelbaumgewaechse"
+  },
+  {
     "name": "Ölweide",
     "botanicalName": "Elaeagnus pungens \u0027Maculata\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -34807,6 +35322,12 @@
     "name": "Ölweiden",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/oelweiden"
+  },
+  {
+    "name": "Ölweidengewächse",
+    "botanicalName": "Elaeagnaceae",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/oelweidengewaechse"
   },
   {
     "name": "Österreichische Schwarzkiefer",
