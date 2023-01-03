@@ -21925,6 +21925,14 @@
     "isWinterProof": false
   },
   {
+    "name": "Piment",
+    "botanicalName": "Pimenta dioica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/piment/piment",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Pimpernuss",
     "botanicalName": "Staphylea colchica",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
