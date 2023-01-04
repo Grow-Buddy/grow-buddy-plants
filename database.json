@@ -13441,6 +13441,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Hopfenklee",
+    "botanicalName": "Medicago lupulina",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/luzerne-schneckenklee/hopfenklee",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Hornblatt",
     "botanicalName": "Ceratophyllum demersum",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -15547,6 +15555,14 @@
     "botanicalName": "Osteospermum-Hybriden",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kapkoerbchen/kapkoerbchen",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
+    "name": "Kardamom",
+    "botanicalName": "Elettaria cardamomum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/elettaria/kardamom",
     "preferredLocation": "SUNNY",
     "isWinterProof": false
   },
@@ -18961,6 +18977,14 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/lirope-lilientraube/lilientraube",
     "preferredLocation": "SHADOW_TO_HALF_SHADOWS",
+    "isWinterProof": true
+  },
+  {
+    "name": "Limonandenpflanze",
+    "botanicalName": "Agastache mexicana \u0027Sangria\u0027",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/duftnessel/limonandenpflanze",
+    "preferredLocation": "SUNNY",
     "isWinterProof": true
   },
   {
@@ -26455,6 +26479,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/holunder/schwarzer-holunder",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Schwarzer Ingwer",
+    "botanicalName": "Kaempferia parviflora",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gewuerzlilie/schwarzer-ingwer",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Schwarzer Lauch",
