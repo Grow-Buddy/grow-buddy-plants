@@ -162,6 +162,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Ackerhellerkraut",
+    "botanicalName": "Thlaspi arvense",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hellerkraeuter/ackerhellerkraut",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Ackerschmalwand",
     "botanicalName": "Arabidopsis thaliana",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -2192,6 +2200,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/knopfkraut/behaartes-knopfkraut",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Behaartes Schaumkraut",
+    "botanicalName": "Cardamine hirsuta",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schaumkraut/behaartes-schaumkraut",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Beifuß, Artemisia",
@@ -11043,6 +11059,14 @@
     "waterDemand": "MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Gewürznelken-Baum",
+    "botanicalName": "Syzygium aromaticum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/syzygium/gewuerznelken-baum",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Gewürzrinde",
@@ -23824,6 +23848,14 @@
     "waterDemand": "MEDIUM",
     "preferredLocation": "SHADOW_TO_HALF_SHADOWS",
     "isWinterProof": true
+  },
+  {
+    "name": "Rispen-Fuchsschwanz",
+    "botanicalName": "Amaranthus cruentus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/fuchsschwanz/rispen-fuchsschwanz",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Rispen-Steinbrech, Trauben-Steinbrech",
