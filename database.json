@@ -10940,6 +10940,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Gewöhnlicher Reiherschnabel",
+    "botanicalName": "Erodium cicutarium",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/reiherschnabel/gewoehnlicher-reiherschnabel",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Gewöhnlicher Rippenfarn",
     "botanicalName": "Blechnum spicant",
     "source": "MEIN_SCHOENER_GARTEN",
