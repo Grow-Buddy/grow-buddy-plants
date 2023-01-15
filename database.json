@@ -228,6 +228,14 @@
     "name": "Affodill",
     "botanicalName": "Asphodelus albus",
     "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/affodill",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Affodill",
+    "botanicalName": "Asphodelus albus",
+    "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodill/affodill",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
@@ -1848,6 +1856,14 @@
     "botanicalName": "Aloe arborescens",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/bitterschopf/baum-aloe",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
+    "name": "Baum-Aloe",
+    "botanicalName": "Aloe arborescens",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/baum-aloe",
     "preferredLocation": "SUNNY",
     "isWinterProof": false
   },
@@ -9689,6 +9705,14 @@
     "isWinterProof": false
   },
   {
+    "name": "Gasteria",
+    "botanicalName": "Gasteria verrucosa",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/gasteria",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Gauklerblume",
     "botanicalName": "Mimulus luteus",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -11806,6 +11830,14 @@
     "name": "Grannen-Aloe",
     "botanicalName": "Aloe aristata",
     "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/grannen-aloe",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Grannen-Aloe",
+    "botanicalName": "Aloe aristata",
+    "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/bitterschopf/grannen-aloe",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
@@ -12892,6 +12924,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Herbst-Löwenzahn",
+    "botanicalName": "Scorzoneroides autumnalis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schuppen-loewenzahn/herbst-loewenzahn",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Herbstanemone",
     "botanicalName": "Anemone hupehensis \u0027Splendens\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -13182,6 +13222,14 @@
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/403/cedrus-deodara-aurea",
     "waterDemand": "LOW_TO_MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Himalaya-Steppenkerze",
+    "botanicalName": "Eremurus himalaicus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/himalaya-steppenkerze",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
   },
   {
     "name": "Himalaya-Steppenkerze",
@@ -15085,6 +15133,13 @@
     "name": "Johannisbrotbaum",
     "botanicalName": "Ceratonia siliqua",
     "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/johannisbrotbaum/johannisbrotbaum",
+    "preferredLocation": "SUNNY"
+  },
+  {
+    "name": "Johannisbrotbaum",
+    "botanicalName": "Ceratonia siliqua",
+    "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/johannisbrotbaum",
     "preferredLocation": "SUNNY"
   },
@@ -15242,6 +15297,14 @@
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/1837/tanacetum-coccineum-gruppe-sorten",
     "waterDemand": "MEDIUM",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Junkerlilie",
+    "botanicalName": "Asphodeline lutea",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/junkerlilie",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
   },
@@ -15792,6 +15855,14 @@
     "botanicalName": "Bulbine frutescens",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/katzenschwanzpflanze/katzenschwanzpflanze",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
+    "name": "Katzenschwanzpflanze",
+    "botanicalName": "Bulbine frutescens",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/katzenschwanzpflanze",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": false
   },
@@ -23738,6 +23809,14 @@
     "name": "Riesen-Steppenkerze",
     "botanicalName": "Eremurus robustus",
     "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/riesen-steppenkerze",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Riesen-Steppenkerze",
+    "botanicalName": "Eremurus robustus",
+    "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/steppenkerze/riesen-steppenkerze",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
@@ -25898,6 +25977,14 @@
     "name": "Schmalblättrige Steppenkerze",
     "botanicalName": "Eremurus stenophyllus",
     "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/schmalblaettrige-steppenkerze",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Schmalblättrige Steppenkerze",
+    "botanicalName": "Eremurus stenophyllus",
+    "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/steppenkerze/schmalblaettrige-steppenkerze",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
@@ -27321,6 +27408,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Skabiosen-Flockenblume",
+    "botanicalName": "Centaurea scabiosa",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/flockenblume/skabiosen-flockenblume",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Skimmie",
     "botanicalName": "Skimmia japonica \u0027Rubella\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -28077,6 +28172,14 @@
     "botanicalName": "Aloe polyphylla",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/bitterschopf/spiral-aloe",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Spiral-Aloe",
+    "botanicalName": "Aloe polyphylla",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/spiral-aloe",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
   },
@@ -31074,6 +31177,14 @@
     "name": "Tiger-Aloe",
     "botanicalName": "Aloe variegata",
     "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/tiger-aloe",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
+    "name": "Tiger-Aloe",
+    "botanicalName": "Aloe variegata",
+    "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/bitterschopf/tiger-aloe",
     "preferredLocation": "SUNNY",
     "isWinterProof": false
@@ -31245,6 +31356,14 @@
     "waterDemand": "MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Trauer-Amarant",
+    "botanicalName": "Amaranthus hypochondriacus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/fuchsschwanz/trauer-amarant",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Trauerbirke",
@@ -33915,6 +34034,14 @@
     "botanicalName": "Haworthia fasciata",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/haworthie/zebra-haworthie",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
+    "name": "Zebra-Haworthie",
+    "botanicalName": "Haworthia fasciata",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/zebra-haworthie",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": false
   },
