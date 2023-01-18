@@ -121,6 +121,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Acker-Ehrenpreis",
+    "botanicalName": "Veronica agrestis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/acker-ehrenpreis",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Acker-Gauchheil",
     "botanicalName": "Anagallis arvensis",
     "source": "MEIN_SCHOENER_GARTEN",
