@@ -1941,6 +1941,14 @@
     "isWinterProof": false
   },
   {
+    "name": "Baumwolle",
+    "botanicalName": "Gossypium arboreum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/baumwolle",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Baumwollpflanze",
     "botanicalName": "Gossypium barbadense",
     "source": "MEIN_SCHOENER_GARTEN",
