@@ -145,6 +145,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Acker-Gänsedistel",
+    "botanicalName": "Sonchus arvensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gaensedisteln/acker-gaensedistel",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Acker-Kratzdistel",
     "botanicalName": "Cirsium arvense",
     "source": "MEIN_SCHOENER_GARTEN",
