@@ -186,6 +186,14 @@
     "isWinterProof": false
   },
   {
+    "name": "Ackerminze",
+    "botanicalName": "Mentha arvensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/minze-pfefferminze/ackerminze",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Ackerschmalwand",
     "botanicalName": "Arabidopsis thaliana",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -6088,6 +6096,14 @@
     "preferredLocation": "SUNNY"
   },
   {
+    "name": "Echtes Leinkraut",
+    "botanicalName": "Linaria vulgaris",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/leinkraut/echtes-leinkraut",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Echtes Löffelkraut",
     "botanicalName": "Cochlearia officinalis",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -6600,6 +6616,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Einjähriger Beifuß",
+    "botanicalName": "Artemisia annua",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/beifuss-wermut/einjaehriger-beifuss",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Einjähriger Phlox",
     "botanicalName": "Phlox drummondii",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -6613,6 +6637,14 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/feinstrahlaster/einjaehriges-berufkraut-feinstrahl",
     "preferredLocation": "SUNNY"
+  },
+  {
+    "name": "Einjähriges Rispengras",
+    "botanicalName": "Poa annua",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/rispengras/einjaehriges-rispengras",
+    "preferredLocation": "NO_MATTER",
+    "isWinterProof": true
   },
   {
     "name": "Eisbegonien",
@@ -16737,6 +16769,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/maedesuess/kleines-maedesuess",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Kleinköpfiger Pippau",
+    "botanicalName": "Crepis capillaris",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/pippau/kleinkoepfiger-pippau",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Kleinstrauchrose ‘Apfelblüte’",
