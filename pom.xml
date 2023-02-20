@@ -17,7 +17,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <immutables.version>2.9.2</immutables.version>
-        <jsoup.version>1.15.3</jsoup.version>
+        <jsoup.version>1.15.4</jsoup.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
         <commons-collections4.version>4.4</commons-collections4.version>
         <commons-io.version>2.11.0</commons-io.version>
