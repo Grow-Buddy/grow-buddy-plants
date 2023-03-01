@@ -161,6 +161,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Acker-Rettich",
+    "botanicalName": "Raphanus raphanistrum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/rettiche/acker-rettich",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Acker-Schachtelhalm, Zinnkraut",
     "botanicalName": "Equisetum arvense",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -184,6 +192,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hellerkraeuter/ackerhellerkraut",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": false
+  },
+  {
+    "name": "Ackerhornkraut",
+    "botanicalName": "Cerastium arvense",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/ackerhornkraut",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
   },
   {
     "name": "Ackerminze",
