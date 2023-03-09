@@ -13767,6 +13767,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hundsgiftgewaechse"
   },
   {
+    "name": "Hundspetersilie",
+    "botanicalName": "Aethusa cynapium",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/aethusa/hundspetersilie",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Hundsrose, Heckenrose",
     "botanicalName": "Rosa canina",
     "source": "MEIN_SCHOENER_GARTEN",
