@@ -20,7 +20,7 @@ jobs:
         key: crawling-cache
     - uses: Project-Env/project-env-github-action@v1.3.1
     - run: mvn -B verify exec:exec -Dexec.executable="java" -Dexec.args="-classpath %classpath ch.projectplants.database.PlantsDatabaseCreator database.json cache"
-    - uses: peter-evans/create-pull-request@v4
+    - uses: peter-evans/create-pull-request@v5
       with:
         title: 'update plants database'
         body: 'Updated plants database with latest info'
