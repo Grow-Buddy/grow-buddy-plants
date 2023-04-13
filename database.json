@@ -177,6 +177,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Ackerfuchsschwanz",
+    "botanicalName": "Alopecurus myosuroides",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/fuchsschwanzgraeser/ackerfuchsschwanz",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Ackerglockenblume",
     "botanicalName": "Campanula rapunculoides",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -214,6 +222,13 @@
     "botanicalName": "Arabidopsis thaliana",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schaumkressen/ackerschmalwand",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Ackersenf",
+    "botanicalName": "Sinapis arvensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/senf/ackersenf",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
   },
   {
@@ -5303,6 +5318,14 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/dendrobium-orchidee",
     "preferredLocation": "SUNNY"
+  },
+  {
+    "name": "Deutsche Schwertlilie",
+    "botanicalName": "Iris germanica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/iris-schwertlilie/deutsche-schwertlilie",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
   },
   {
     "name": "Deutsches Weidelgras",
@@ -13765,6 +13788,14 @@
     "botanicalName": "Apocynaceae",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hundsgiftgewaechse"
+  },
+  {
+    "name": "Hundskerbel",
+    "botanicalName": "Anthriscus caucalis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kerbel/hundskerbel",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Hundspetersilie",
@@ -33473,6 +33504,14 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/bocksbaerte/wiesenbocksbart",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Wiesenfuchsschwanz",
+    "botanicalName": "Alopecurus pratensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/fuchsschwanzgraeser/wiesenfuchsschwanz",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
   },
   {
     "name": "Wiesenkerbel",
