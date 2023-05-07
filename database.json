@@ -6135,6 +6135,13 @@
     "preferredLocation": "SUNNY"
   },
   {
+    "name": "Echtes Labkraut",
+    "botanicalName": "Galium verum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/labkraut/echtes-labkraut",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
     "name": "Echtes Leinkraut",
     "botanicalName": "Linaria vulgaris",
     "source": "MEIN_SCHOENER_GARTEN",
