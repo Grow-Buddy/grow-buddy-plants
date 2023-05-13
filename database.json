@@ -6111,6 +6111,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Echtes Eisenkraut",
+    "botanicalName": "Verbena officinalis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/eisenkraut-verbene/echtes-eisenkraut",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Echtes Herzgespann",
     "botanicalName": "Leonurus cardiaca",
     "source": "MEIN_SCHOENER_GARTEN",
