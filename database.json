@@ -23058,6 +23058,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Quellen-Hornkraut",
+    "botanicalName": "Cerastium fontanum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/quellen-hornkraut",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Quellmoos",
     "botanicalName": "Fontinalis antipyretica",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -31365,6 +31373,13 @@
     "name": "Tillandsien",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/tillandsien"
+  },
+  {
+    "name": "Titanenwurz",
+    "botanicalName": "Amorphophallus titanum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/titanwurz/titanenwurz",
+    "preferredLocation": "SUNNY"
   },
   {
     "name": "Tokiokirsche, Maienkirsche",
