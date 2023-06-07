@@ -26574,6 +26574,14 @@
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
   },
   {
+    "name": "Schopf-Fackellilie",
+    "botanicalName": "Kniphofia uvaria",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/affodillgewaechse/schopf-fackellilie",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Schopflavendel",
     "botanicalName": "Lavandula stoechas",
     "source": "MEIN_SCHOENER_GARTEN",
