@@ -177,6 +177,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Acker-Witwenblume",
+    "botanicalName": "Knautia arvensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/witwenblume/acker-witwenblume",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Ackerfuchsschwanz",
     "botanicalName": "Alopecurus myosuroides",
     "source": "MEIN_SCHOENER_GARTEN",
