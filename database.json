@@ -810,6 +810,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Ampfer-Knöterich",
+    "botanicalName": "Persicaria lapathifolia",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/knoeterich/ampfer-knoeterich",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Ananaskirsche",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/obst/ananaskirsche"
@@ -3093,6 +3101,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/bambus-flachrohrbambus/phyllostachys-bissetii",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Bittere Schleifenblume",
+    "botanicalName": "Iberis amara",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schleifenblume/bittere-schleifenblume",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Bittermelone, Bittergurke",
@@ -25578,6 +25594,14 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/duftsiegel/schattenblume",
     "preferredLocation": "SHADOW_TO_HALF_SHADOWS",
+    "isWinterProof": true
+  },
+  {
+    "name": "Schattenmorelle",
+    "botanicalName": "Prunus cerasus var. acida",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kirsche-zierkirsche/schattenmorelle-strauchweichsel",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
   },
   {
