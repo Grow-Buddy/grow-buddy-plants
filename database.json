@@ -8323,6 +8323,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Feuerlilie",
+    "botanicalName": "Lilium bulbiferum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/lilie/feuerlilie",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Feuersalbei",
     "botanicalName": "Salvia splendens",
     "source": "MEIN_SCHOENER_GARTEN",
