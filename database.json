@@ -7996,6 +7996,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Feld-Mannstreu",
+    "botanicalName": "Eryngium campestre",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/mannstreu/feld-mannstreu",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Feldahorn",
     "botanicalName": "Acer campestre \u0027Nanum\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -25266,6 +25274,12 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hortensie/samt-hortensie-raue-hortensie",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "San-Marzano-Tomate",
+    "botanicalName": "Solanum lycopersicum ‘San Marzano’",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/tomaten/san-marzano-tomate"
   },
   {
     "name": "Sand-Thymian, Feld-Thymian",
