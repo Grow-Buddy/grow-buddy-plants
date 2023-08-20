@@ -26899,6 +26899,14 @@
     "name": "Schwarzer Nachtschatten",
     "botanicalName": "Solanum nigrum",
     "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nachtschatten/schwarzer-nachtschatten",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": false
+  },
+  {
+    "name": "Schwarzer Nachtschatten",
+    "botanicalName": "Solanum nigrum",
+    "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/korallenstrauch/schwarzer-nachtschatten",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
   },
@@ -35082,6 +35090,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hahnenfuss/zungenhahnenfuss",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Zurückgebogener Amarant",
+    "botanicalName": "Amaranthus retroflexus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/fuchsschwanz/zurueckgebogener-amarant",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "Zweiblättriger Blaustern",
