@@ -3137,6 +3137,13 @@
     "preferredLocation": "SHADOW_TO_HALF_SHADOWS"
   },
   {
+    "name": "Bittersüßer Nachtschatten",
+    "botanicalName": "Solanum dulcamara",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nachtschatten/bittersuesser-nachtschatten",
+    "preferredLocation": "SHADOW_TO_HALF_SHADOWS"
+  },
+  {
     "name": "Bitterwurz",
     "botanicalName": "Lewisia cotyledon",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -17763,6 +17770,14 @@
     "isWinterProof": false
   },
   {
+    "name": "Korallenstrauch",
+    "botanicalName": "Solanum pseudocapsium",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nachtschatten/korallenstrauch",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Korbblütler",
     "botanicalName": "Asteraceae",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -27841,6 +27856,14 @@
     "botanicalName": "Solanum jasminoides",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/korallenstrauch/sommerjasmin-jasminbluetiger-nachtschatten",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
+    "name": "Sommerjasmin, Jasminblütiger Nachtschatten",
+    "botanicalName": "Solanum jasminoides",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nachtschatten/sommerjasmin-jasminbluetiger-nachtschatten",
     "preferredLocation": "SUNNY",
     "isWinterProof": false
   },
