@@ -177,6 +177,13 @@
     "isWinterProof": true
   },
   {
+    "name": "Acker-Vergissmeinnicht",
+    "botanicalName": "Myosotis arvensis",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/vergissmeinnicht/acker-vergissmeinnicht",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
     "name": "Acker-Witwenblume",
     "botanicalName": "Knautia arvensis",
     "source": "MEIN_SCHOENER_GARTEN",
@@ -21191,6 +21198,13 @@
     "botanicalName": "Abelmoschus esculentus",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/gemuese/okra"
+  },
+  {
+    "name": "Oktober-Silberkerze",
+    "botanicalName": "Actaea simplex",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/silberkerze/oktober-silberkerze",
+    "preferredLocation": "SHADOW_TO_HALF_SHADOWS"
   },
   {
     "name": "Oktobersilberkerze",
