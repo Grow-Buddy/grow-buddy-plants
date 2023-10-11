@@ -26947,6 +26947,13 @@
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
   },
   {
+    "name": "Schwarzer Senf",
+    "botanicalName": "Brassica nigra",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kohl/schwarzer-senf",
+    "preferredLocation": "SUNNY"
+  },
+  {
     "name": "Schwarzerle",
     "botanicalName": "Alnus glutinosa",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -33566,6 +33573,13 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/lavendel/weisser-lavendel",
     "preferredLocation": "SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Weißer Salbei",
+    "botanicalName": "Salvia apiana",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/salbei/weisser-salbei",
+    "preferredLocation": "SUNNY"
   },
   {
     "name": "Weißer Spargel",
