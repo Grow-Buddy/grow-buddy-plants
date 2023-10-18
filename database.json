@@ -33107,6 +33107,13 @@
     "preferredLocation": "SUNNY"
   },
   {
+    "name": "Weiche Trespe",
+    "botanicalName": "Bromus hordeaceus",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/trespen/weiche-trespe",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
     "name": "Weicher Frauenmantel",
     "botanicalName": "Alchemilla mollis",
     "source": "MEIN_SCHOENER_GARTEN",
