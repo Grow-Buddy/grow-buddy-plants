@@ -17580,6 +17580,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Knäuel-Hornkraut",
+    "botanicalName": "Cerastium glomeratum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/knaeuel-hornkraut",
+    "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
     "name": "Knöterich",
     "botanicalName": "Persicaria affinis \u0027Suberba\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -25310,6 +25318,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/hortensie/samt-hortensie-raue-hortensie",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
     "isWinterProof": true
+  },
+  {
+    "name": "Samtpappel",
+    "botanicalName": "Abutilon theophrasti",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/schoenmalve/samtpappel",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
   },
   {
     "name": "San-Marzano-Tomate",
