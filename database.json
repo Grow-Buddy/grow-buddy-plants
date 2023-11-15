@@ -18048,6 +18048,14 @@
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kreuzkraut-goldkolben"
   },
   {
+    "name": "Kreuzkümmel",
+    "botanicalName": "Cuminum cyminum",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kreuzkuemmel/kreuzkuemmel",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Kriecheibe",
     "botanicalName": "Taxus baccata \u0027Repandens\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -28598,6 +28606,12 @@
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/fensterblatt/monstera-acuminata",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY"
+  },
+  {
+    "name": "Spitzkohl",
+    "botanicalName": "Brassica oleracea var. capitata f. alba",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/kohl/spitzkohl"
   },
   {
     "name": "Spitzwegerich",
