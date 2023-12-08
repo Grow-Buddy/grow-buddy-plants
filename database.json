@@ -6976,7 +6976,7 @@
   },
   {
     "name": "Engelstrompeten",
-    "botanicalName": "Brugmansia Hybride",
+    "botanicalName": "Brugmansia-Hybriden",
     "source": "MEIN_SCHOENER_GARTEN",
     "detailLink": "https://www.mein-schoener-garten.de/pflanzen/engelstrompeten/engelstrompete",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
@@ -20979,6 +20979,14 @@
     "isWinterProof": true
   },
   {
+    "name": "Neembaum",
+    "botanicalName": "Azadirachta indica",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/nimbaum/neembaum",
+    "preferredLocation": "SUNNY",
+    "isWinterProof": false
+  },
+  {
     "name": "Nektarine \u0027Garden Beauty\u0027",
     "botanicalName": "Prunus persica \u0027Garden Beauty\u0027",
     "source": "PFLANZEN_FUER_UNSERE_GAERTEN",
@@ -32330,6 +32338,14 @@
     "detailLink": "https://www.pflanzen-fuer-unsere-gaerten.ch/de-ch/artikel/1449/prunus-avium",
     "waterDemand": "MEDIUM",
     "preferredLocation": "HALF_SHADOWS_TO_SUNNY",
+    "isWinterProof": true
+  },
+  {
+    "name": "Vogelknöterich",
+    "botanicalName": "Polygonum aviculare",
+    "source": "MEIN_SCHOENER_GARTEN",
+    "detailLink": "https://www.mein-schoener-garten.de/pflanzen/knoeterich/vogelknoeterich",
+    "preferredLocation": "SUNNY",
     "isWinterProof": true
   },
   {
